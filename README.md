@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on a new IOS App
+🌱 I’m currently learning Swift
+
 
 <!--
 **L4ma/L4ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
