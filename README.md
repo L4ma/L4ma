@@ -1,6 +1,6 @@
 <center><h2>Hi 👋, I am Marco Damm</h2></center>
 
-- 🔭 I’m currently working on a new `IOS App`
+- 🔭 I’m currently working on an new `IOS App`
 - 🌱 I’m currently learning `Swift`
 
 
